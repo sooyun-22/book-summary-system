@@ -54,7 +54,7 @@ scikit-learn==1.6.1
 scipy==1.15.3
 sentence-transformers==4.1.0
 sentencepiece==0.2.1
-setuptools==78.1.0
+setuptools==83.0.0
 six==1.17.0
 sqlparse==0.5.3
 sympy==1.14.0
